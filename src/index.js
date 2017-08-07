@@ -12,6 +12,6 @@ Commander
   })
   .parse(process.argv);
 
-if (Commander.args.length !== 1) {
+if (Commander.args.length !== 2) {
   Commander.help();
 }

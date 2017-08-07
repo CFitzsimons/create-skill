@@ -1,6 +1,6 @@
 {
   "name": "create-skill",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An app for setting up Amazon Alexa projects. Supports eslint and Mocha.",
   "main": "./lib/index.js",
   "scripts": {
